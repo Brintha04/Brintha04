@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Brintha_Devi_
-- 👀 I’m interested in Web development and Data analysis 
-- 🌱 I’m currently learning Frontend development 
+- 👀 I’m interested in Data Science, Data analysis, Machine Learning
+- 🌱 I’m currently learning and doing project for data science using machine learninng algorithm 
 
   
 
